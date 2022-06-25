@@ -34,7 +34,7 @@
 }
 .container form .prenchimento input{
     width: 100%;
-    padding: 1rem ;
+    padding: 0.7rem ;
     border: none;
     background-color:rgba(128, 128, 128, 0.171);
     border-radius: 4px;
@@ -141,6 +141,7 @@ footer .links  p{
     font-weight: 600;
     color: grey;
 }
+
 #btn_inicar{
     position: absolute;
     right: 0;
